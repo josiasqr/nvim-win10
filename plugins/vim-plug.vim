@@ -7,7 +7,6 @@ call plug#begin('~\Appdata\Local\nvim\plugged')
   Plug 'christoomey/vim-tmux-navigator'
   Plug 'neoclide/coc.nvim', {'branch': 'release'}
   Plug 'mattn/emmet-vim'
-  Plug 'jiangmiao/auto-pairs'
   Plug 'itchyny/lightline.vim'
   " Plug 'Yggdroot/indentLine'
   Plug 'norcalli/nvim-colorizer.lua'
