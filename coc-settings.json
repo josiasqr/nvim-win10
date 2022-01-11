@@ -6,6 +6,7 @@
     "markdown",
     "scss"
   ],
-  "javascript.suggestionActions.enabled": false
+  "javascript.suggestionActions.enabled": false,
+  "html.autoClosingTags": true
 }
 
